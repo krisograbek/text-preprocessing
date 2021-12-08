@@ -2,7 +2,7 @@
 
 You can find a collection of Text Preprocessing steps that are common in a variety of NLP tasks.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/krisograbek/text-preprocessing/blob/main/PythonTextPreprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/krisograbek/text-preprocessing/blob/main/PythonTextPreprocessingColab.ipynb)
 
 ## Libraries
 
